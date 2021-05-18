@@ -1,0 +1,2 @@
+# whitepaper
+Global DeFi Whitepaper
